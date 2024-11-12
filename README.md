@@ -63,9 +63,9 @@ Set of Devices connected by communication medium <br>
 <br>
 <b>Types of Connection</b><br>
 
-- Point to Point
+- Point to Point<br>
     <img src="image copy 2.png">
-- Multipoint
+- Multipoint<br>
     <img src="image copy 3.png">
 
 <br>
