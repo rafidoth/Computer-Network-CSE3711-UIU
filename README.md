@@ -88,6 +88,79 @@ data transmission based on geographic location. It can be said its a variant of 
 <br>
 <b>Topology</b><br>
 
+- What is Network Topology ? <br>
+::: Network Topology is the model/pattern/structure how different components of network are interconnected. 
+- Physical Topology ? <br>
+::: physical design of the network
+- Logical Topology ? <br>
+::: how data transmission happens in a network 
+
+<b>Mesh Topology</b>
+
+- All nodes are connected with each other
+- Not fisible for larger network
+- Partial mesh used in real world
+- $\frac{n(n-1)}{2}$ number of cable needed to make mesh of n nodes
+<img src="image copy 4.png">
+<br>
+<br>
+<b>Hub / Star Topology</b>
+<b>Bus Topology</b>
+
+- All devices are connected to a single backbone/bus
+- both ends of central trunk contain 
+- limited number of devices 
+- single point of failure (if the central cable fails the entire network goes down)
+- Efficient for small networks
+
+
+<b>Ring Topology</b>
+
+
+<br>
+<br>
+<b>Catagories of Network</b>
+
+- Local Area Network
+- Wide Area Network
+- Metropolitan Area Network
+
+<br>
+<br>
+<b>Switched WAN</b><br>
+<img src ="image copy 5.png"/>
+<b>Point to Point WAN</b><br>
+<img src ="image copy 6.png"/>
+
+<br>
+<br>
+<br>
+
+<b>Protocols</b>
+
+- set of rules in the context of data communication that both sender and reciever maintains
+
+<br>
+Elements of Protocols
+<br>
+
+- Syntax<br>
+    - Structure / format of data
+    - indicates how to read the bits 
+- Semantics<br>
+    - interprets the meaning of the bit
+    - knows which field defines what action
+- Timing
+    - When what data should be sent
+    - data transmission speed
+<br>
+
+
+
+
+        
+
+
 
 
 
