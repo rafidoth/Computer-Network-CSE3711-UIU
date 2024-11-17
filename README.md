@@ -173,7 +173,7 @@ ISO declared OSI Model as the standard network communication model to be followe
 
 - How many layers are there in OSI MODEL?
 <br>7 layers and they are <br>
-<center><img  src="image copy 8.png" width="300"/></center>
+<p align="center"><img  src="image copy 8.png" width="300"/></center>
 
 
 
