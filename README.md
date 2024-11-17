@@ -158,7 +158,38 @@ Elements of Protocols
 
 
 # Lecture 2
-<img src="image copy 7.png"/>
+Think about the process how a letter get sent through postman to the receipiant. We write letter then (1) we package the letter in an envelope (2) we write the address of the receipiant on top of envelope. (3) then we add stamp paper on top of envelope (4) Then we post the letter in the postbox after that the postman takes all letters from the postbox and from this point after some more steps required to reach the receipiant and then the receipiant checks if its for him or not  and if its for him then he opens it up. Similar things happen in the network context too. If we call these steps layer then similarly in the network context we have different layers for processing the data for sending and receiving.  
+
+
+
+- What is Layer in Network Context ?<br>
+In the context of data communication both the process of sending and receiving data goes through certain steps where similar kinds of functionalities happens to make the data ready for a proper communication. These steps can be said as Layer. 
+
+<br>
+
+<center><img  src="image copy 7.png" width="500"/></center>
+
+ISO declared OSI Model as the standard network communication model to be followed. Though later on TCP\IP came into the picture and most people adapted with TCP\IP. 
+
+- How many layers are there in OSI MODEL?
+<br>7 layers and they are <br>
+<center><img  src="image copy 8.png" width="300"/></center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         
 
 
